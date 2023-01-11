@@ -2,6 +2,7 @@
 Projeto feito em JavaScript com a funcionalidade de gerenciar tarefas, podendo o usuario adicionar tarefas, marcar como concluido, editar e remover.
 
 # Acesse o projeto pelo link:
+https://filipexcode.github.io/ProjetoToDoList/
 
 # Layout
 Adicionando tarefa
